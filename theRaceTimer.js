@@ -385,4 +385,3 @@
   return false;
  }
 
-     woodbridgeSurfersTimerInit();
